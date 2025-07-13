@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="JavaScript" alt="Welcome Banner" width="500"/>
+  <img src="JavaScript.png" alt="Welcome Banner" width="500"/>
 </p>
